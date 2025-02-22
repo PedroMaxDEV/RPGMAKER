@@ -39,13 +39,13 @@ Game_Temp.prototype.reservedCommonEvent = function() {
 };
 
 Game_Temp.prototype.setDestination = function(x, y) {
-    this._destinationX = x;
-    this._destinationY = y;
+    //this._destinationX = x;
+    //this._destinationY = y;
 };
 
 Game_Temp.prototype.clearDestination = function() {
-    //this._destinationX = null;
-    //this._destinationY = null;
+    this._destinationX = null;
+    this._destinationY = null;
 };
 
 Game_Temp.prototype.isDestinationValid = function() {

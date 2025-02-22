@@ -787,8 +787,11 @@ Scene_Map.prototype.isMenuEnabled = function() {
     return $gameSystem.isMenuEnabled() && !$gameMap.isEventRunning();
 };
 
+//Scene_Map.prototype.isMenuCalled = function() {
+   // return Input.isTriggered('menu') || TouchInput.isCancelled();
+//};
 Scene_Map.prototype.isMenuCalled = function() {
-    return Input.isTriggered('menu') || TouchInput.isCancelled();
+    return Input.isTriggered('menu'); // Remove o TouchInput.isCancelled()
 };
 
 Scene_Map.prototype.callMenu = function() {
