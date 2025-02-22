@@ -44,8 +44,8 @@ Game_Temp.prototype.setDestination = function(x, y) {
 };
 
 Game_Temp.prototype.clearDestination = function() {
-    this._destinationX = null;
-    this._destinationY = null;
+    //this._destinationX = null;
+    //this._destinationY = null;
 };
 
 Game_Temp.prototype.isDestinationValid = function() {
