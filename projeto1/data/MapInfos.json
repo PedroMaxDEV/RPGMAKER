@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"introdução","order":1,"parentId":0,"scrollX":2156,"scrollY":1240},
 {"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":1437.3333333333333,"scrollY":805.3333333333334},
-{"id":3,"expanded":true,"name":"Casarão","order":10,"parentId":14,"scrollX":1416,"scrollY":1314.6666666666667},
+{"id":3,"expanded":true,"name":"Casarão","order":10,"parentId":14,"scrollX":816,"scrollY":1314},
 {"id":4,"expanded":true,"name":"Casa grande 1F","order":11,"parentId":3,"scrollX":1437.3333333333333,"scrollY":826.6666666666666},
 {"id":5,"expanded":true,"name":"base do jogador","order":6,"parentId":7,"scrollX":1416,"scrollY":826.6666666666666},
 {"id":6,"expanded":false,"name":"dentro da base","order":7,"parentId":5,"scrollX":819,"scrollY":453},
