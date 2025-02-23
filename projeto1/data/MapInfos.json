@@ -1,18 +1,31 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"introdução","order":1,"parentId":0,"scrollX":1422.6666666666667,"scrollY":798.6666666666666},
+<<<<<<< HEAD
 {"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":1158.2222222222222,"scrollY":784.8888888888889},
+=======
+{"id":1,"expanded":true,"name":"introdução","order":1,"parentId":0,"scrollX":462,"scrollY":422.6666666666667},
+{"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":1264,"scrollY":1190},
+>>>>>>> 97cb19d1d074106af7978e09bfe912a7e0a28af9
+=======
+{"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":1165.0909090909092,"scrollY":792},
+>>>>>>> parent of fd45e8a (last)
 {"id":3,"expanded":true,"name":"Casarão","order":10,"parentId":14,"scrollX":1401.3333333333333,"scrollY":1230.6666666666667},
-{"id":4,"expanded":true,"name":"Casa grande 1F","order":11,"parentId":3,"scrollX":1422.6666666666667,"scrollY":798.6666666666666},
-{"id":5,"expanded":true,"name":"base do jogador","order":6,"parentId":7,"scrollX":1402,"scrollY":719.3333333333334},
-{"id":6,"expanded":false,"name":"dentro da base","order":7,"parentId":5,"scrollX":711.3333333333334,"scrollY":399.3333333333333},
-{"id":7,"expanded":true,"name":"trevo","order":5,"parentId":2,"scrollX":1165.0909090909092,"scrollY":1350.5454545454545},
+{"id":4,"expanded":true,"name":"Casa grande 1F","order":11,"parentId":3,"scrollX":1158.5454545454545,"scrollY":763.6363636363636},
+{"id":5,"expanded":true,"name":"base do jogador","order":6,"parentId":7,"scrollX":1312,"scrollY":1190},
+{"id":6,"expanded":false,"name":"dentro da base","order":7,"parentId":5,"scrollX":1264,"scrollY":1222},
+{"id":7,"expanded":true,"name":"trevo","order":5,"parentId":2,"scrollX":1232,"scrollY":1210},
 {"id":8,"expanded":true,"name":"Igreja","order":8,"parentId":7,"scrollX":1401.818181818182,"scrollY":1284},
-{"id":9,"expanded":true,"name":"Pedra da caveira","order":13,"parentId":15,"scrollX":1460.6666666666667,"scrollY":388.6666666666667},
-{"id":10,"expanded":false,"name":"Dentro da pedra","order":14,"parentId":9,"scrollX":1247.3333333333333,"scrollY":800.6666666666666},
-{"id":11,"expanded":true,"name":"Praça da biblia","order":15,"parentId":7,"scrollX":1401.3333333333333,"scrollY":905.3333333333334},
+{"id":9,"expanded":true,"name":"Pedra da caveira","order":13,"parentId":15,"scrollX":1459.6363636363637,"scrollY":746.1818181818182},
+{"id":10,"expanded":false,"name":"Dentro da pedra","order":14,"parentId":9,"scrollX":1158.5454545454545,"scrollY":763.6363636363636},
+{"id":11,"expanded":true,"name":"Praça da biblia","order":15,"parentId":7,"scrollX":1289.4545454545455,"scrollY":746.1818181818182},
 {"id":12,"expanded":true,"name":"cena2","order":3,"parentId":13,"scrollX":1177.7777777777778,"scrollY":1001.7777777777778},
+<<<<<<< HEAD
+<<<<<<< HEAD
 {"id":13,"expanded":true,"name":"cena1","order":2,"parentId":1,"scrollX":720.8888888888889,"scrollY":845.3333333333334},
+=======
+{"id":13,"expanded":true,"name":"cena1","order":2,"parentId":1,"scrollX":1401.3333333333333,"scrollY":1121.3333333333333},
 {"id":14,"expanded":true,"name":"pedro albuquerque uchoa","order":9,"parentId":8,"scrollX":1146.5454545454545,"scrollY":1266.5454545454545},
 {"id":15,"expanded":true,"name":"caminho da pedra da caveira","order":12,"parentId":3,"scrollX":1146.5454545454545,"scrollY":1048.3636363636365},
 {"id":16,"expanded":true,"name":"Vila","order":16,"parentId":11,"scrollX":1146.5454545454545,"scrollY":1356},
@@ -23,3 +36,4 @@ null,
 {"id":21,"expanded":true,"name":"new5","order":21,"parentId":20,"scrollX":832,"scrollY":640},
 {"id":22,"expanded":false,"name":"new6","order":22,"parentId":21,"scrollX":832,"scrollY":640}
 ]
+>>>>>>> parent of fd45e8a (last)
