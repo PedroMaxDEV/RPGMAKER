@@ -16,10 +16,10 @@ null,
 {"id":14,"expanded":true,"name":"pedro albuquerque uchoa","order":9,"parentId":8,"scrollX":1146.5454545454545,"scrollY":1266.5454545454545},
 {"id":15,"expanded":true,"name":"caminho da pedra da caveira","order":12,"parentId":3,"scrollX":1146.5454545454545,"scrollY":1048.3636363636365},
 {"id":16,"expanded":true,"name":"Vila","order":16,"parentId":11,"scrollX":1158.5454545454545,"scrollY":746.1818181818182},
-{"id":17,"expanded":true,"name":"new1","order":17,"parentId":16,"scrollX":359.3333333333333,"scrollY":206.66666666666666},
+{"id":17,"expanded":true,"name":"new1","order":17,"parentId":16,"scrollX":1176,"scrollY":676.3636363636364},
 {"id":18,"expanded":true,"name":"new2","order":18,"parentId":17,"scrollX":542,"scrollY":305},
-{"id":19,"expanded":true,"name":"new3","order":19,"parentId":18,"scrollX":354,"scrollY":273.3333333333333},
-{"id":20,"expanded":true,"name":"new4","order":20,"parentId":19,"scrollX":542,"scrollY":305},
-{"id":21,"expanded":true,"name":"new5","order":21,"parentId":20,"scrollX":359.3333333333333,"scrollY":206.66666666666666},
-{"id":22,"expanded":false,"name":"new6","order":22,"parentId":21,"scrollX":354,"scrollY":273.3333333333333}
+{"id":19,"expanded":true,"name":"new3","order":19,"parentId":18,"scrollX":1176,"scrollY":676.3636363636364},
+{"id":20,"expanded":true,"name":"new4","order":20,"parentId":19,"scrollX":1176,"scrollY":676.3636363636364},
+{"id":21,"expanded":true,"name":"new5","order":21,"parentId":20,"scrollX":1176,"scrollY":676.3636363636364},
+{"id":22,"expanded":false,"name":"new6","order":22,"parentId":21,"scrollX":1176,"scrollY":676.3636363636364}
 ]
