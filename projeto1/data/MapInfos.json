@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"introdução","order":1,"parentId":0,"scrollX":728,"scrollY":402.6666666666667},
-{"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":2048,"scrollY":880},
+{"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":1617,"scrollY":930},
 {"id":3,"expanded":true,"name":"Casarão","order":10,"parentId":14,"scrollX":1400.7272727272727,"scrollY":1143.2727272727273},
 {"id":4,"expanded":true,"name":"Casa grande 1F","order":11,"parentId":3,"scrollX":1158.5454545454545,"scrollY":763.6363636363636},
 {"id":5,"expanded":true,"name":"base do jogador","order":6,"parentId":7,"scrollX":1820.5714285714284,"scrollY":1189.7142857142856},
