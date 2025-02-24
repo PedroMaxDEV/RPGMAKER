@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"joao turista","characterIndex":0,"characterName":"joao turista1","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"joao turista","traits":[],"initialLevel":1,"maxLevel":99,"name":"João","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"joao turista","characterIndex":0,"characterName":"joao turista1","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"joao turista","traits":[],"initialLevel":1,"maxLevel":99,"name":"João","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"cachorro","nickname":"mike","note":"","profile":""}
 ]
