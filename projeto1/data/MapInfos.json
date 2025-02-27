@@ -23,5 +23,5 @@ null,
 {"id":21,"expanded":true,"name":"Casa 1","order":23,"parentId":22,"scrollX":646.8,"scrollY":372},
 {"id":22,"expanded":true,"name":"Frutaria","order":22,"parentId":23,"scrollX":646.8,"scrollY":372},
 {"id":23,"expanded":true,"name":"Hospedagem","order":21,"parentId":19,"scrollX":637.1999999999999,"scrollY":547.1999999999999},
-{"id":24,"expanded":false,"name":"Casa abandonada","order":24,"parentId":21,"scrollX":646.8,"scrollY":372}
+{"id":24,"expanded":false,"name":"Casa abandonada","order":24,"parentId":21,"scrollX":819,"scrollY":453}
 ]
