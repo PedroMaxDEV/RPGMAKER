@@ -1,5 +1,5 @@
 //=============================================================================
-// rpg_scenes.js v1.6.1
+// rpg_scenes.js v1.5.0
 //=============================================================================
 
 //=============================================================================
@@ -787,11 +787,8 @@ Scene_Map.prototype.isMenuEnabled = function() {
     return $gameSystem.isMenuEnabled() && !$gameMap.isEventRunning();
 };
 
-//Scene_Map.prototype.isMenuCalled = function() {
-   // return Input.isTriggered('menu') || TouchInput.isCancelled();
-//};
 Scene_Map.prototype.isMenuCalled = function() {
-    return Input.isTriggered('menu'); // Remove o TouchInput.isCancelled()
+    return Input.isTriggered('menu') || TouchInput.isCancelled();
 };
 
 Scene_Map.prototype.callMenu = function() {
