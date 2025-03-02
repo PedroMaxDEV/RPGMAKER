@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"introdução","order":1,"parentId":0,"scrollX":1078,"scrollY":620},
-{"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":1818,"scrollY":836},
-{"id":3,"expanded":true,"name":"Casarão","order":10,"parentId":14,"scrollX":1081.3333333333333,"scrollY":1054.6666666666667},
+{"id":2,"expanded":true,"name":"Rua Santa Cruz","order":4,"parentId":13,"scrollX":1062,"scrollY":836},
+{"id":3,"expanded":true,"name":"Casarão","order":10,"parentId":14,"scrollX":1066,"scrollY":1038},
 {"id":4,"expanded":true,"name":"Casa grande 1F","order":11,"parentId":3,"scrollX":1062,"scrollY":660},
 {"id":5,"expanded":true,"name":"base do jogador","order":6,"parentId":7,"scrollX":1482,"scrollY":806},
 {"id":6,"expanded":false,"name":"dentro da base","order":7,"parentId":5,"scrollX":1078,"scrollY":620},
@@ -11,7 +11,7 @@ null,
 {"id":9,"expanded":true,"name":"Pedra da caveira","order":13,"parentId":15,"scrollX":1686.5454545454545,"scrollY":781.0909090909091},
 {"id":10,"expanded":false,"name":"Dentro da pedra","order":14,"parentId":9,"scrollX":1158.5454545454545,"scrollY":763.6363636363636},
 {"id":11,"expanded":true,"name":"Praça da biblia","order":15,"parentId":7,"scrollX":1289.4545454545455,"scrollY":711.2727272727273},
-{"id":12,"expanded":true,"name":"cena2","order":3,"parentId":13,"scrollX":1104,"scrollY":836},
+{"id":12,"expanded":true,"name":"cena2","order":3,"parentId":13,"scrollX":1062,"scrollY":820},
 {"id":13,"expanded":true,"name":"cena1","order":2,"parentId":1,"scrollX":1062,"scrollY":820},
 {"id":14,"expanded":true,"name":"pedro albuquerque uchoa","order":9,"parentId":8,"scrollX":1098,"scrollY":604},
 {"id":15,"expanded":true,"name":"caminho da pedra da caveira","order":12,"parentId":3,"scrollX":1158.5454545454545,"scrollY":704.7272727272727},
@@ -23,6 +23,6 @@ null,
 {"id":21,"expanded":true,"name":"Casa 1","order":23,"parentId":22,"scrollX":718.6666666666666,"scrollY":413.3333333333333},
 {"id":22,"expanded":true,"name":"Frutaria","order":22,"parentId":23,"scrollX":1078,"scrollY":620},
 {"id":23,"expanded":true,"name":"Hospedagem","order":21,"parentId":19,"scrollX":637.1999999999999,"scrollY":547.1999999999999},
-{"id":24,"expanded":true,"name":"Casa abandonada","order":24,"parentId":21,"scrollX":832,"scrollY":640},
-{"id":25,"expanded":true,"name":"Caverna de lava","order":25,"parentId":24,"scrollX":816,"scrollY":1760}
+{"id":24,"expanded":true,"name":"Casa abandonada","order":24,"parentId":21,"scrollX":1078,"scrollY":620},
+{"id":25,"expanded":true,"name":"Caverna de lava","order":25,"parentId":24,"scrollX":1062,"scrollY":1236}
 ]
