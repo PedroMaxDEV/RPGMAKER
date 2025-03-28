@@ -1696,15 +1696,6 @@ function Khas_SCWR() { this.initialize.apply(this, arguments); };
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   ShaderTilemap.prototype._drawShadow = function(layer, shadowBits, dx, dy) {
   };
-
-  var _Scene_Map_start = Scene_Map.prototype.start;
-Scene_Map.prototype.start = function() {
-    _Scene_Map_start.call(this);
-    if ($gameMap._lighting) {
-        setTimeout(() => { $gameMap._lighting.render(); }, 100);
-    }
-};
-
 //=====================================================================================================================
 // * End of Plugin
 //=====================================================================================================================
